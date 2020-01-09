@@ -1,0 +1,4 @@
+arch/x86/kernel/idt.o-.init.text-1f2
+arch/x86/kernel/idt.o-.init.text-2d
+arch/x86/kernel/idt.o-.text-15a
+arch/x86/kernel/idt.o-.text-77

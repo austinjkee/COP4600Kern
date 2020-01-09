@@ -1,0 +1,4 @@
+arch/x86/pci/direct.o-.init.text-1cf
+arch/x86/pci/direct.o-.init.text-2ad
+arch/x86/pci/direct.o-.text.unlikely-4
+arch/x86/pci/direct.o-.text.unlikely-e

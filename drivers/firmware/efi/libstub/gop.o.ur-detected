@@ -1,0 +1,9 @@
+drivers/firmware/efi/libstub/gop.o-.text-22f drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r8
+drivers/firmware/efi/libstub/gop.o-.text-274 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r10
+drivers/firmware/efi/libstub/gop.o-.text-322 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r8
+drivers/firmware/efi/libstub/gop.o-.text-423 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%rdx
+drivers/firmware/efi/libstub/gop.o-.text-4ea drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r8
+drivers/firmware/efi/libstub/gop.o-.text-575 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r8
+drivers/firmware/efi/libstub/gop.o-.text-5b3 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *0x28(%r9)
+drivers/firmware/efi/libstub/gop.o-.text-675 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *%r8
+drivers/firmware/efi/libstub/gop.o-.text-6b7 drivers/firmware/efi/libstub/gop.c .text efi_setup_gop callq *0x28(%r9)

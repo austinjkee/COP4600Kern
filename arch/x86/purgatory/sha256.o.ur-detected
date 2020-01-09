@@ -1,0 +1,6 @@
+arch/x86/purgatory/sha256.o-.text-1b08 arch/x86/purgatory/sha256.c .text sha256_transform callq *%rax
+arch/x86/purgatory/sha256.o-.text-1bb1 arch/x86/purgatory/sha256.c .text sha256_update callq *%r13
+arch/x86/purgatory/sha256.o-.text-1bdb arch/x86/purgatory/sha256.c .text sha256_update callq *%rax
+arch/x86/purgatory/sha256.o-.text-1cef arch/x86/purgatory/sha256.c .text sha256_final callq *%r13
+arch/x86/purgatory/sha256.o-.text-1cfe arch/x86/purgatory/sha256.c .text sha256_final callq *%r13
+arch/x86/purgatory/sha256.o-.text-1d6b arch/x86/purgatory/sha256.c .text sha256_final callq *%rax

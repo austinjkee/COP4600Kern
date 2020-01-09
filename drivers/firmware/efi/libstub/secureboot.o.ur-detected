@@ -1,0 +1,3 @@
+drivers/firmware/efi/libstub/secureboot.o-.text-48 drivers/firmware/efi/libstub/secureboot.c .text efi_get_secureboot callq *%r10
+drivers/firmware/efi/libstub/secureboot.o-.text-a5 drivers/firmware/efi/libstub/secureboot.c .text efi_get_secureboot callq *%r10
+drivers/firmware/efi/libstub/secureboot.o-.text-f8 drivers/firmware/efi/libstub/secureboot.c .text efi_get_secureboot callq *%r10

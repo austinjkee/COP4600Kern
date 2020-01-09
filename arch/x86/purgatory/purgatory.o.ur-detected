@@ -1,0 +1,6 @@
+arch/x86/purgatory/purgatory.o-.text-12c arch/x86/purgatory/purgatory.c .text purgatory callq *%rax
+arch/x86/purgatory/purgatory.o-.text-4b arch/x86/purgatory/purgatory.c .text verify_sha256_digest callq *%rax
+arch/x86/purgatory/purgatory.o-.text-5e arch/x86/purgatory/purgatory.c .text verify_sha256_digest callq *%r13
+arch/x86/purgatory/purgatory.o-.text-7b arch/x86/purgatory/purgatory.c .text verify_sha256_digest callq *%rax
+arch/x86/purgatory/purgatory.o-.text-de arch/x86/purgatory/purgatory.c .text verify_sha256_digest callq *%rax
+arch/x86/purgatory/purgatory.o-.text-ee arch/x86/purgatory/purgatory.c .text purgatory callq *%rax

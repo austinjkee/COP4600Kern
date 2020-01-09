@@ -1,0 +1,8 @@
+arch/x86/hyperv/mmu.o-.altinstr_replacement-12 arch/x86/hyperv/mmu.c .altinstr_replacement .altinstr_replacement callq *%r14
+arch/x86/hyperv/mmu.o-.altinstr_replacement-1d arch/x86/hyperv/mmu.c .altinstr_replacement .altinstr_replacement callq *%rax
+arch/x86/hyperv/mmu.o-.altinstr_replacement-27 arch/x86/hyperv/mmu.c .altinstr_replacement .altinstr_replacement callq *%r14
+arch/x86/hyperv/mmu.o-.altinstr_replacement-8 arch/x86/hyperv/mmu.c .altinstr_replacement .altinstr_replacement callq *%rax
+arch/x86/hyperv/mmu.o-.text-308 arch/x86/hyperv/mmu.c .text hyperv_flush_tlb_others_ex callq *%rax
+arch/x86/hyperv/mmu.o-.text-565 arch/x86/hyperv/mmu.c .text hyperv_flush_tlb_others_ex callq *%r14
+arch/x86/hyperv/mmu.o-.text-879 arch/x86/hyperv/mmu.c .text hyperv_flush_tlb_others callq *%rax
+arch/x86/hyperv/mmu.o-.text-98b arch/x86/hyperv/mmu.c .text hyperv_flush_tlb_others callq *%r14

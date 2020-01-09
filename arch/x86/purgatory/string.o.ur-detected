@@ -1,0 +1,2 @@
+arch/x86/purgatory/string.o-.text-1e3 arch/x86/purgatory/string.c .text simple_strtol callq *%rax
+arch/x86/purgatory/string.o-.text-1f5 arch/x86/purgatory/string.c .text simple_strtol callq *%rax

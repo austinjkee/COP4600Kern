@@ -1,0 +1,7 @@
+arch/x86/kernel/apic/vector.o-.init.text-2bb
+arch/x86/kernel/apic/vector.o-.irqentry.text-bf
+arch/x86/kernel/apic/vector.o-.text-13b0
+arch/x86/kernel/apic/vector.o-.text-166b
+arch/x86/kernel/apic/vector.o-.text-16f2
+arch/x86/kernel/apic/vector.o-.text-73
+arch/x86/kernel/apic/vector.o-.text-cae

@@ -1,0 +1,8 @@
+drivers/acpi/processor_idle.o-.cpuidle.text-1b
+drivers/acpi/processor_idle.o-.cpuidle.text-22
+drivers/acpi/processor_idle.o-.text-1454
+drivers/acpi/processor_idle.o-.text-1463
+drivers/acpi/processor_idle.o-.text-1544
+drivers/acpi/processor_idle.o-.text-1581
+drivers/acpi/processor_idle.o-.text-15fd
+drivers/acpi/processor_idle.o-.text-170a

@@ -1,0 +1,17 @@
+arch/x86/kernel/fpu/xstate.o-.init.text-1fb
+arch/x86/kernel/fpu/xstate.o-.init.text-29a
+arch/x86/kernel/fpu/xstate.o-.init.text-2d0
+arch/x86/kernel/fpu/xstate.o-.init.text-58a
+arch/x86/kernel/fpu/xstate.o-.init.text-6a2
+arch/x86/kernel/fpu/xstate.o-.init.text-8a4
+arch/x86/kernel/fpu/xstate.o-.init.text-8ae
+arch/x86/kernel/fpu/xstate.o-.init.text-8d4
+arch/x86/kernel/fpu/xstate.o-.init.text-8de
+arch/x86/kernel/fpu/xstate.o-.text-2d3
+arch/x86/kernel/fpu/xstate.o-.text-2dd
+arch/x86/kernel/fpu/xstate.o-.text-303
+arch/x86/kernel/fpu/xstate.o-.text-30d
+arch/x86/kernel/fpu/xstate.o-.text.unlikely-11b
+arch/x86/kernel/fpu/xstate.o-.text.unlikely-199
+arch/x86/kernel/fpu/xstate.o-.text.unlikely-36
+arch/x86/kernel/fpu/xstate.o-.text.unlikely-a5

@@ -1,0 +1,5 @@
+drivers/pci/host/pci-hyperv.o-.altinstr_replacement-8
+drivers/pci/host/pci-hyperv.o-.text-267f
+drivers/pci/host/pci-hyperv.o-.text-26fe
+drivers/pci/host/pci-hyperv.o-.text-2708
+drivers/pci/host/pci-hyperv.o-.text-bbf

@@ -1,0 +1,4 @@
+drivers/acpi/sleep.o-.text-bfc
+drivers/acpi/sleep.o-.text-dc
+drivers/acpi/sleep.o-.text-dfa
+drivers/acpi/sleep.o-.text-e3c
